@@ -76,7 +76,7 @@ The final model is deployed as an interactive web application that allows users 
 
 </div>
 
-The deployed Streamlit application provides an interactive premium interface for estimating smartphone valuation in real time using hardware specifications and the trained machine learning pipeline.
+The deployed Streamlit application provides an interactive interface for estimating smartphone valuation in real time using hardware specifications and the trained machine learning pipeline.
 
 ---
 
